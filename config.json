@@ -1,0 +1,7 @@
+{
+  "api_key": "3abade6903f5bcc6bff48580d065c017",
+  "signing_alg": "ES256",
+  "token_lifetime": 1400,
+  "fixed_query_parameters": {
+  }
+}

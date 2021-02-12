@@ -1,0 +1,9 @@
+{
+  "api_key": "c088c60276fb7d91dac4cf9a1972b154",
+  "signing_alg": "RS256",
+  "token_lifetime": 60,
+  "fixed_query_parameters": {
+    "input": "What is a JWT?",
+    "v": "20200910"
+  }
+}

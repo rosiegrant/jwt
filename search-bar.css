@@ -1,0 +1,51 @@
+img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Border and Rdadiu */
+.search-bar-container-3 .yxt-SearchBar-container {
+    border-radius: 28px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px black;
+    color: white;
+}
+
+/* Background Color */
+.search-bar-container-3 .yxt-SearchBar-button,
+.search-bar-container-3 .yxt-SearchBar-clear,
+.search-bar-container-3 .yxt-SearchBar-form,
+.search-bar-container-3 .yxt-AutoComplete-wrapper {
+    background-color: black;
+}
+
+/* Text Color */
+.search-bar-container-3 .yxt-AutoComplete-option,
+.search-bar-container-3 .yxt-SearchBar-input {
+    color: white;
+}
+
+/* Seperator bewteen autocomplete and search bar */
+.search-bar-container-3 .yxt-AutoComplete:before {
+    background-color: black;
+}
+
+/* Hover / Selected State */
+.search-bar-container-3 .yxt-AutoComplete-option.yxt-selected,
+.search-bar-container-3 .yxt-AutoComplete-option:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+/* Changing the icon color */
+.search-bar-container-3 .yxt-SearchBar-clear,
+.search-bar-container-3 svg {
+    color: white;
+    fill: white;
+}
+
+.search-bar-container-3 path {
+    stroke: white;
+}
